@@ -1,10 +1,10 @@
 {
   "name": "readme-guestbook",
-  "version": "1.0.9",
+  "version": "2.0.1",
   "description": "A GitHub action to create a guestbook in your README from repository issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muety/readme-guestbook.git"
+    "url": "git+https://github.com/nfhipona/readme-guestbook.git"
   },
   "main": "dist/index.js",
   "scripts": {
